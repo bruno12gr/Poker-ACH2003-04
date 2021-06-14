@@ -1,5 +1,10 @@
+import org.junit.Rule;
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.rules.Timeout;
+
+import java.util.*;
+import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.*;
 
@@ -72,6 +77,9 @@ public class PokerGameTest {
         test13Result = "14c 14o 8p 4e 7c Pair";
         test14Result = "4p 3o 4e 3p 11p TwoPair";
     }
+
+    @Rule
+    public Timeout timeout = new Timeout(5, TimeUnit.SECONDS);
 
     @Test
     public void test1(){
