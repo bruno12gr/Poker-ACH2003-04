@@ -5,6 +5,8 @@ Sintam-se livres para editar e adicionar qualquer classe e método que acharem n
 OBS: Escrever uma boa documentação no README conta como contribuição ;)
 Então não deixem de registrar como o programa funciona.
 
+Não se esqueçam de se registrarem na lista de contribuidores
+
 ## Explicação das classes
 
 ### Card
