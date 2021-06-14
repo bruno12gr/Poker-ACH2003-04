@@ -19,6 +19,7 @@ Jogador possui dois atributos: Array de Cards e um valor indicando o quão alta 
 
 
 ## Contribuidores
-#### Escreva aqui seu nome, NUSP e usuário do Github
+
+<b> Escreva aqui seu nome, NUSP e usuário do Github <b>
 
 - Felipe Furquim - 11208030 - FvFurquim
