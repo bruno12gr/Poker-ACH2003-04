@@ -11,4 +11,4 @@ Então não deixem de registrar como o programa funciona
 ## Contribuidores
 # Escreva aqui seu nome, NUSP e usuário do Github
 
-- Felipe Furquim 11208030 FvFurquim
+- Felipe Furquim - 11208030 - FvFurquim
