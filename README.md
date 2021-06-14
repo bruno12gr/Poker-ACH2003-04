@@ -1,11 +1,18 @@
 # Poker-ACH2003-04
 
 Exercício de Computação Orientada a Objeto da turma ACH2003-04, ministrada pelo Professor Marcelo Chaim.<br>
+
+## Instruções e Observações
 Sintam-se livres para editar e adicionar qualquer classe e método que acharem necessário.<br>
+
+Os métodos que devem ser criados estão na parte de "Issues". Nessas Issues, tem comentários com sugesões de implementação, mas vocês não precisam seguí-las, vocês estão livres para implementar esse programa do jeito que quiserem. 
+
+MAS É IMPORTANTE EXPLICAR O FUNCIONAMENTO DOS MÉTODOS ATRAVÉS DE COMENTÁRIOS E DA DOCUMENTAÇÃO.
+
 OBS: Escrever uma boa documentação no README conta como contribuição ;)
 Então não deixem de registrar como o programa funciona.
 
-Não se esqueçam de se registrarem na lista de contribuidores
+No final desse README tem uma sessão "Contribuidores" para vocês se registrarem.
 
 ## Explicação das classes
 
