@@ -36,12 +36,12 @@ public class PokerGameTest {
     @Test
     public void test1(){
 
-        assertEquals(test1Result, table.gameResult(test1));
+        assertEquals(test1Result, table.individualTest(test1));
     }
 
     @Test
     public void test2(){
 
-        assertEquals(test2Result, table.gameResult(test2));
+        assertEquals(test2Result, table.individualTest(test2));
     }
 }
