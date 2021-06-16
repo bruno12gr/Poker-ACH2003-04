@@ -76,6 +76,16 @@ public class Table {
 
 		return true;
 	}
+	
+	private boolean isPair(Card[] cards) {
+		
+		for(int i = 1; i < card.length; i++) {
+			if((cards[i-1].getRank() + 1) == cards[i].getRank())
+				return true;
+		}
+		
+		return false;
+	}
 
 	
 }
