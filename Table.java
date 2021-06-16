@@ -76,6 +76,20 @@ public class Table {
 
 		return true;
 	}
+	private boolean isTwoPair(Card[] cards) {
+		
+		for(int i = 1; i < card.length; i++) {
+			int p = 0; // p sendo o numero de pares
+			if((cards[i-1].getRank() + 1) == cards[i].getRank()){
+				p++;
+				if(p=2){ // se tiver 2 pares retorna true
+					return true;
+				}
+			}	
+		}
+		
+		return false;
+	}
 	
 	private boolean isPair(Card[] cards) {
 		
